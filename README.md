@@ -55,7 +55,7 @@ Aplikacja desktopowa do wyszukiwania, podglądu, zarządzania playlistami i pobi
 
 ---
 
-## 📁 Struktura folderu (`D:\Local Music`)
+## 📁 Struktura folderu (`Local Music`)
 
 Po instalacji wszystko znajduje się w jednym miejscu:
 
