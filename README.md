@@ -44,13 +44,13 @@ Aplikacja desktopowa do wyszukiwania, podglądu, zarządzania playlistami i pobi
 | Co | Gdzie |
 |---|---|
 | Instalator | `Local_Music_Setup.exe` |
-| Uruchomienie aplikacji | `D:\Local Music\LocalMusic.exe` — z menu Start lub z pulpitu, jeśli zaznaczyłeś podczas instalacji |
-| Pobrane pliki i baza | `D:\Local Music\downloads\`, `instance\`, `database\` |
+| Uruchomienie aplikacji | `Local Music\LocalMusic.exe` — z menu Start lub z pulpitu, jeśli zaznaczyłeś podczas instalacji |
+| Pobrane pliki i baza | `Local Music\downloads\`, `instance\`, `database\` |
 
 **Kroki:**
 
 1. Uruchom **`Local_Music_Setup.exe`**
-2. W kreatorze wybierz folder instalacji — np. **`D:\Local Music`**
+2. W kreatorze wybierz folder instalacji — np. **`C:\Local Music`**
 3. Po instalacji odpal aplikację z menu Start albo bezpośrednio z folderu instalacji
 
 ---
@@ -60,7 +60,7 @@ Aplikacja desktopowa do wyszukiwania, podglądu, zarządzania playlistami i pobi
 Po instalacji wszystko znajduje się w jednym miejscu:
 
 ```
-D:\Local Music\
+Local Music\
 ├── LocalMusic.exe              # główny program — stąd uruchamiasz aplikację
 ├── yt-dlp.exe                  # pobieranie multimediów z YouTube, SoundCloud itd.
 ├── logo.ico                    # ikona aplikacji
