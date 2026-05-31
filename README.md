@@ -49,7 +49,7 @@ Aplikacja desktopowa do wyszukiwania, podglądu, zarządzania playlistami i pobi
 
 **Kroki:**
 
-1. Zainstaluj [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+1. Zainstaluj [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)]([https://www.python.org/](https://www.python.org/downloads/))
 1. Uruchom **`Local_Music_Setup.exe`**
 2. W kreatorze wybierz folder instalacji — np. **`C:\Local Music`**
 3. Po instalacji odpal aplikację z menu Start albo bezpośrednio z folderu instalacji
